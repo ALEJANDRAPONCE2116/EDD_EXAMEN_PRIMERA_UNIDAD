@@ -1,5 +1,4 @@
-﻿package arreglo_con_posiciones_pares;
-
+package arreglo_con_posiciones_pares;
 public class ARREGLO_CON_POSICIONES_PARES {
 
     public static void main(String[] args) {

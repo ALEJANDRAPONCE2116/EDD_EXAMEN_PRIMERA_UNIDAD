@@ -1,6 +1,5 @@
 package copia_parcial;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class COPIA_PARCIAL {
